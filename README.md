@@ -1,1 +1,1 @@
-# 441B
+# Exercises on machine learning by Python
